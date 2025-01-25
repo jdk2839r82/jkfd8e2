@@ -6,7 +6,7 @@ import string
 from concurrent.futures import ThreadPoolExecutor
 
 report_endpoint = "https://groupsor.link/data/addreport"
-CUTOFF_TIME = datetime.strptime("2025-01-24 16:24:20", "%Y-%m-%d %H:%M:%S")  # Define the cutoff time
+CUTOFF_TIME = datetime.strptime("2025-01-18 16:24:20", "%Y-%m-%d %H:%M:%S")  # Define the cutoff time
 
 
 # List of real User-Agent strings (example)
